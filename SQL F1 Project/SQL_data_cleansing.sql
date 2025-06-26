@@ -3,7 +3,12 @@ All data cleansing process was done on Google Big Query
 All visulizationn was done on Power BI
 Definition:
     Podium driver: Driver that has get at least 1 podium in his/her career
-    DNF: DNF stand for "Did not finish"  --> Cause by various reason like collision, technical issues, driver feeling sick, etc. 
+    DNF: DNF stand for "Did not finish"  --> Cause by various reason like collision, technical issues, driver feeling sick, etc.
+
+All data are extracted from Kaggle (https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020)
+Races: 1950 ROUND 1 British Grand Prix TO 2024 ROUND 24 Abu Dhabi
+Results: 1950 ROUND 1 British Grand Prix TO 2024 ROUND 13 Hungarian Grand Prix
+
 */
 
 /* To extract the DNF rate and DNF number per year and group by nationality --> Result in file "DNF rate per year" */
