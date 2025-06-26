@@ -1,0 +1,105 @@
+Full_name,driverId,nationality,Race_count,Podium_percentage,AVG_finish_position,rank_by_podium_percentage
+George Amick,591,American,1,1.0,2,1
+Mauri Rose,768,American,2,0.5,3,2
+Lee Wallard,766,American,2,0.5,3.5,3
+Alfonso Thiele,491,American-Italian,2,0.0,,1
+Juan Fangio,579,Argentine,58,0.6,2.25,1
+José Froilán González,498,Argentine,29,0.52,3,2
+Carlos Reutemann,199,Argentine,146,0.31,5.22,3
+Alessandro de Tomaso,573,Argentine-Italian,2,0.0,9,1
+Jack Brabham,356,Australian,129,0.24,4.63,1
+Alan Jones,178,Australian,117,0.21,6.24,2
+Mark Webber,17,Australian,217,0.19,6.6,3
+Niki Lauda,182,Austrian,174,0.31,4.26,1
+Gerhard Berger,77,Austrian,210,0.23,5.1,2
+Jochen Rindt,358,Austrian,62,0.21,4.2,3
+Jacky Ickx,235,Belgian,121,0.21,5.89,1
+Olivier Gendebien,482,Belgian,17,0.12,6.27,2
+Paul Frère,632,Belgian,11,0.09,5.8,3
+Ayrton Senna,102,Brazilian,162,0.49,3.15,1
+Nelson Piquet,137,Brazilian,207,0.29,4.14,2
+Emerson Fittipaldi,224,Brazilian,149,0.23,6.02,3
+Lewis Hamilton,1,British,345,0.58,3.57,1
+Jim Clark,373,British,73,0.44,3.84,2
+Jackie Stewart,328,British,100,0.43,2.95,3
+Gilles Villeneuve,203,Canadian,68,0.19,5.95,1
+Jacques Villeneuve,35,Canadian,165,0.14,7.05,2
+Lance Stroll,840,Canadian,157,0.02,11.07,3
+Eliseo Salazar,194,Chilean,37,0.0,10.5,1
+Guanyu Zhou,855,Chinese,57,0.0,13.73,1
+Juan Pablo Montoya,31,Colombian,95,0.32,4.21,1
+Ricardo Londoño,218,Colombian,1,0.0,,2
+Roberto Guerrero,195,Colombian,29,0.0,12.2,3
+Tomáš Enge,61,Czech,3,0.0,13,1
+Kevin Magnussen,825,Danish,177,0.01,12.58,1
+Jac Nelleman,281,Danish,1,0.0,,2
+Tom Belsø,311,Danish,4,0.0,8,3
+Max Verstappen,830,Dutch,198,0.54,3.54,1
+Jos Verstappen,50,Dutch,107,0.02,10.53,2
+Ernie de Vos,450,Dutch,1,0.0,,3
+Theo Fitzau,713,East German,1,0.0,,1
+Ernst Klodwig,709,East German,2,0.0,13.5,2
+Rudolf Krause,710,East German,2,0.0,14,3
+Mika Häkkinen,57,Finnish,165,0.31,4.47,1
+Kimi Räikkönen,8,Finnish,352,0.29,6.24,2
+Valtteri Bottas,822,Finnish,236,0.28,7.47,3
+Alain Prost,117,French,202,0.52,2.96,1
+François Cevert,327,French,47,0.28,5.03,2
+Patrick Depailler,221,French,95,0.2,5.5,3
+Michael Schumacher,30,German,308,0.5,3.7,1
+Sebastian Vettel,20,German,300,0.41,5.28,2
+Nico Rosberg,3,German,206,0.28,6.36,3
+Zsolt Baumgartner,47,Hungarian,20,0.0,13.5,1
+Narain Karthikeyan,39,Indian,48,0.0,17.18,1
+Karun Chandhok,812,Indian,11,0.0,17.22,2
+Rio Haryanto,837,Indonesian,12,0.0,18.22,1
+Joe Kelly,776,Irish,2,0.0,,1
+Tommy Byrne,210,Irish,5,0.0,,2
+Dave Kennedy,225,Irish,7,0.0,,3
+Dorino Serafini,802,Italian,1,1.0,2,1
+Luigi Fagioli,786,Italian,8,0.75,3.29,2
+Nino Farina,642,Italian,37,0.54,2.81,3
+Aguri Suzuki,88,Japanese,88,0.01,9.16,1
+Kamui Kobayashi,155,Japanese,76,0.01,10.85,2
+Takuma Sato,11,Japanese,91,0.01,11.58,3
+Rikky von Opel,313,Liechtensteiner,13,0.0,11.5,1
+Alex Yoong,62,Malaysian,16,0.0,12.17,1
+Sergio Pérez,815,Mexican,272,0.14,7.92,1
+Pedro Rodríguez,345,Mexican,54,0.13,5.31,2
+Hector Rebaque,212,Mexican,58,0.0,7.73,3
+Charles Leclerc,844,Monegasque,138,0.25,5.73,1
+Louis Chiron,589,Monegasque,17,0.06,8,2
+André Testut,553,Monegasque,2,0.0,,3
+Denny Hulme,304,New Zealander,112,0.29,4.79,1
+Bruce McLaren,360,New Zealander,103,0.26,4.68,2
+Chris Amon,278,New Zealander,106,0.1,6.9,3
+Robert Kubica,9,Polish,99,0.12,9.42,1
+Tiago Monteiro,33,Portuguese,37,0.03,13.34,1
+Pedro Chaves,142,Portuguese,13,0.0,,2
+Mário de Araújo Cabral,432,Portuguese,5,0.0,10,3
+John Love,340,Rhodesian,10,0.1,8.67,1
+Clive Puzey,414,Rhodesian,1,0.0,,2
+Gary Hocking,473,Rhodesian,1,0.0,,3
+Daniil Kvyat,826,Russian,112,0.03,10.62,1
+Vitaly Petrov,808,Russian,58,0.02,12.91,2
+Sergey Sirotkin,845,Russian,21,0.0,14.83,3
+Jody Scheckter,222,South African,113,0.29,5.19,1
+Tony Maggs,408,South African,27,0.11,6.67,2
+Desiré Wilson,228,South African,1,0.0,,3
+Fernando Alonso,4,Spanish,393,0.27,6.36,1
+Alfonso de Portago,606,Spanish,6,0.17,5.67,2
+Carlos Sainz,832,Spanish,197,0.12,7.34,3
+Ronnie Peterson,238,Swedish,123,0.21,6.07,1
+Gunnar Nilsson,255,Swedish,32,0.13,7.07,2
+Stefan Johansson,140,Swedish,103,0.12,6.09,3
+Rudi Fischer,723,Swiss,7,0.29,7.67,1
+Clay Regazzoni,223,Swiss,138,0.2,6,2
+Jo Siffert,346,Swiss,100,0.06,7.13,3
+Alexander Albon,848,Thai,94,0.02,10.49,1
+Prince Bira,669,Thai,19,0.0,7.4,2
+Azdrubal Fontes,568,Uruguayan,1,0.0,,1
+Óscar González,806,Uruguayan,1,0.0,6,2
+Alberto Uria,623,Uruguayan,2,0.0,6,3
+Pastor Maldonado,813,Venezuelan,96,0.01,12.81,1
+Ettore Chimeri,503,Venezuelan,1,0.0,,2
+Johnny Cecotto,188,Venezuelan,23,0.0,10.29,3
