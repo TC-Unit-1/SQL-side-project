@@ -1,0 +1,137 @@
+coffee_name,Hour,Sales_revenue
+Espresso,6,0.0
+Americano with Milk,6,61.72
+Hot Chocolate,6,0.0
+Americano,6,51.92
+Cortado,6,0.0
+Cappuccino,6,35.76
+Cocoa,6,0.0
+Latte,6,0.0
+Espresso,7,42.12
+Americano with Milk,7,577.74
+Hot Chocolate,7,0.0
+Americano,7,368.56
+Cortado,7,50.94
+Cappuccino,7,703.44
+Cocoa,7,143.04
+Latte,7,1054.18
+Espresso,8,117.54
+Americano with Milk,8,1540.54
+Hot Chocolate,8,172.92
+Americano,8,1217.66
+Cortado,8,1019.28
+Cappuccino,8,779.86
+Cocoa,8,530.52
+Latte,8,1639.56
+Espresso,9,204.72
+Americano with Milk,9,2843.7
+Hot Chocolate,9,244.44
+Americano,9,716.2
+Cortado,9,827.28
+Cappuccino,9,789.16
+Cocoa,9,566.58
+Latte,9,1237.2
+Espresso,10,259.1
+Americano with Milk,10,3142.06
+Hot Chocolate,10,751.94
+Americano,10,1585.16
+Cortado,10,874.92
+Cappuccino,10,1091.08
+Cocoa,10,287.06
+Latte,10,3003.2
+Espresso,11,299.24
+Americano with Milk,11,2033.76
+Hot Chocolate,11,615.1
+Americano,11,1880.6
+Cortado,11,893.04
+Cappuccino,11,1087.14
+Cocoa,11,571.18
+Latte,11,1469.04
+Espresso,12,321.82
+Americano with Milk,12,1768.28
+Hot Chocolate,12,329.68
+Americano,12,1453.86
+Cortado,12,567.44
+Cappuccino,12,1049.78
+Cocoa,12,507.5
+Latte,12,1670.26
+Espresso,13,152.32
+Americano with Milk,13,1715.42
+Hot Chocolate,13,369.36
+Americano,13,1228.46
+Cortado,13,639.7
+Cappuccino,13,1159.66
+Cocoa,13,393.36
+Latte,13,1450.48
+Espresso,14,206.68
+Americano with Milk,14,1372.74
+Hot Chocolate,14,464.88
+Americano,14,1199.76
+Cortado,14,421.24
+Cappuccino,14,1315.78
+Cocoa,14,605.96
+Latte,14,1678.76
+Espresso,15,277.7
+Americano with Milk,15,1480.52
+Hot Chocolate,15,697.72
+Americano,15,1273.84
+Cortado,15,314.58
+Cappuccino,15,1140.72
+Cocoa,15,283.14
+Latte,15,2320.8
+Espresso,16,280.64
+Americano with Milk,16,1220.4
+Hot Chocolate,16,1117.38
+Americano,16,1153.02
+Cortado,16,462.88
+Cappuccino,16,1444.76
+Cocoa,16,971.72
+Latte,16,2570.8
+Espresso,17,220.4
+Americano with Milk,17,1601.02
+Hot Chocolate,17,1021.2
+Americano,17,948.4
+Cortado,17,322.3
+Cappuccino,17,1338.74
+Cocoa,17,651.82
+Latte,17,1821.12
+Espresso,18,178.28
+Americano with Milk,18,1312.0
+Hot Chocolate,18,916.54
+Americano,18,754.8
+Cortado,18,268.42
+Cappuccino,18,1505.84
+Cocoa,18,685.32
+Latte,18,1614.4
+Espresso,19,88.18
+Americano with Milk,19,1451.4
+Hot Chocolate,19,1121.62
+Americano,19,315.56
+Cortado,19,264.5
+Cappuccino,19,1904.92
+Cocoa,19,681.4
+Latte,19,2139.38
+Espresso,20,85.22
+Americano with Milk,20,732.8
+Hot Chocolate,20,647.6
+Americano,20,318.86
+Cortado,20,207.68
+Cappuccino,20,1241.12
+Cocoa,20,994.72
+Latte,20,1428.92
+Espresso,21,36.24
+Americano with Milk,21,1659.98
+Hot Chocolate,21,996.38
+Americano,21,240.98
+Cortado,21,274.78
+Cappuccino,21,806.32
+Cocoa,21,557.46
+Latte,21,1893.8
+Espresso,22,44.08
+Americano with Milk,22,755.04
+Hot Chocolate,22,705.7
+Americano,22,354.62
+Cortado,22,125.88
+Cappuccino,22,640.06
+Cocoa,22,247.38
+Latte,22,874.4

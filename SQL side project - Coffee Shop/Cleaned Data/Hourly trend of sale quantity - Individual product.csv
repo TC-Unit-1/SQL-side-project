@@ -1,0 +1,137 @@
+coffee_name,Hour,Sales_quantity
+Espresso,6,0
+Cappuccino,6,1
+Americano with Milk,6,2
+Cocoa,6,0
+Latte,6,0
+Cortado,6,0
+Hot Chocolate,6,0
+Americano,6,2
+Espresso,7,2
+Cappuccino,7,20
+Americano with Milk,7,19
+Cocoa,7,4
+Latte,7,30
+Cortado,7,2
+Hot Chocolate,7,0
+Americano,7,14
+Espresso,8,6
+Cappuccino,8,22
+Americano with Milk,8,51
+Cocoa,8,15
+Latte,8,47
+Cortado,8,41
+Hot Chocolate,8,5
+Americano,8,48
+Espresso,9,10
+Cappuccino,9,23
+Americano with Milk,9,95
+Cocoa,9,16
+Latte,9,35
+Cortado,9,33
+Hot Chocolate,9,7
+Americano,9,28
+Espresso,10,13
+Cappuccino,10,30
+Americano with Milk,10,102
+Cocoa,10,8
+Latte,10,81
+Cortado,10,34
+Hot Chocolate,10,21
+Americano,10,60
+Espresso,11,15
+Cappuccino,11,30
+Americano with Milk,11,67
+Cocoa,11,16
+Latte,11,41
+Cortado,11,35
+Hot Chocolate,11,17
+Americano,11,73
+Espresso,12,15
+Cappuccino,12,29
+Americano with Milk,12,57
+Cocoa,12,14
+Latte,12,47
+Cortado,12,22
+Hot Chocolate,12,9
+Americano,12,56
+Espresso,13,7
+Cappuccino,13,32
+Americano with Milk,13,56
+Cocoa,13,11
+Latte,13,41
+Cortado,13,24
+Hot Chocolate,13,10
+Americano,13,46
+Espresso,14,10
+Cappuccino,14,36
+Americano with Milk,14,44
+Cocoa,14,17
+Latte,14,47
+Cortado,14,16
+Hot Chocolate,14,13
+Americano,14,45
+Espresso,15,13
+Cappuccino,15,32
+Americano with Milk,15,48
+Cocoa,15,8
+Latte,15,65
+Cortado,15,12
+Hot Chocolate,15,19
+Americano,15,48
+Espresso,16,13
+Cappuccino,16,40
+Americano with Milk,16,39
+Cocoa,16,27
+Latte,16,72
+Cortado,16,17
+Hot Chocolate,16,31
+Americano,16,44
+Espresso,17,10
+Cappuccino,17,37
+Americano with Milk,17,52
+Cocoa,17,18
+Latte,17,51
+Cortado,17,12
+Hot Chocolate,17,28
+Americano,17,36
+Espresso,18,8
+Cappuccino,18,42
+Americano with Milk,18,42
+Cocoa,18,19
+Latte,18,45
+Cortado,18,10
+Hot Chocolate,18,25
+Americano,18,29
+Espresso,19,4
+Cappuccino,19,52
+Americano with Milk,19,47
+Cocoa,19,19
+Latte,19,60
+Cortado,19,10
+Hot Chocolate,19,31
+Americano,19,12
+Espresso,20,4
+Cappuccino,20,35
+Americano with Milk,20,24
+Cocoa,20,28
+Latte,20,41
+Cortado,20,8
+Hot Chocolate,20,18
+Americano,20,13
+Espresso,21,2
+Cappuccino,21,22
+Americano with Milk,21,54
+Cocoa,21,16
+Latte,21,54
+Cortado,21,11
+Hot Chocolate,21,28
+Americano,21,10
+Espresso,22,2
+Cappuccino,22,18
+Americano with Milk,22,25
+Cocoa,22,7
+Latte,22,25
+Cortado,22,5
+Hot Chocolate,22,20
+Americano,22,14

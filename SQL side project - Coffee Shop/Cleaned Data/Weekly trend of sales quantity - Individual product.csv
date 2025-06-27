@@ -1,0 +1,57 @@
+coffee_name,Week_day,Sales_quantity
+Americano,Mon,98
+Cocoa,Mon,34
+Latte,Mon,140
+Cortado,Mon,36
+Cappuccino,Mon,74
+Espresso,Mon,12
+Americano with Milk,Mon,132
+Hot Chocolate,Mon,35
+Americano,Tue,83
+Cocoa,Tue,58
+Latte,Tue,121
+Cortado,Tue,45
+Cappuccino,Tue,66
+Espresso,Tue,16
+Americano with Milk,Tue,146
+Hot Chocolate,Tue,50
+Americano,Wed,89
+Cocoa,Wed,26
+Latte,Wed,111
+Cortado,Wed,32
+Cappuccino,Wed,75
+Espresso,Wed,27
+Americano with Milk,Wed,114
+Hot Chocolate,Wed,36
+Americano,Thu,83
+Cocoa,Thu,23
+Latte,Thu,114
+Cortado,Thu,42
+Cappuccino,Thu,79
+Espresso,Thu,27
+Americano with Milk,Thu,103
+Hot Chocolate,Thu,49
+Americano,Fri,106
+Cocoa,Fri,53
+Latte,Fri,112
+Cortado,Fri,37
+Cappuccino,Fri,65
+Espresso,Fri,21
+Americano with Milk,Fri,105
+Hot Chocolate,Fri,45
+Americano,Sat,71
+Cocoa,Sat,25
+Latte,Sat,97
+Cortado,Sat,56
+Cappuccino,Sat,71
+Espresso,Sat,14
+Americano with Milk,Sat,121
+Hot Chocolate,Sat,27
+Americano,Sun,48
+Cocoa,Sun,24
+Latte,Sun,87
+Cortado,Sun,44
+Cappuccino,Sun,71
+Espresso,Sun,17
+Americano with Milk,Sun,103
+Hot Chocolate,Sun,40
