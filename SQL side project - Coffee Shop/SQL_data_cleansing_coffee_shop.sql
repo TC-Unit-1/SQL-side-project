@@ -1,8 +1,8 @@
 /* 
 All data cleansing process is done on Google Big Query 
-All visulizationn is done on Power BI
+All visualization is done on Power BI
 Data are extracted from Kaggle (https://www.kaggle.com/datasets/ihelon/coffee-sales)
-Data cover from 1/3/2024 - 23/3/2025
+Data cover:  1/3/2024 - 23/3/2025
 */
 
 /* Task 1: Calculate the average order value. Result in [AVG order value] */ 
