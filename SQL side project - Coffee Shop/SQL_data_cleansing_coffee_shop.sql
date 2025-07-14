@@ -1,8 +1,8 @@
 /* 
-All data cleansing process was done on Google Big Query 
-All visulizationn was done on Power BI
+All data cleansing process is done on Google Big Query 
+All visulizationn iss done on Power BI
 Data are extracted from Kaggle (https://www.kaggle.com/datasets/ihelon/coffee-sales)
-Data cover the year of 1/3/2024 - 23/3/2025
+Data cover from 1/3/2024 - 23/3/2025
 */
 
 /* Task 1: Calculate the average order value. Result in [AVG order value] */ 
@@ -20,13 +20,14 @@ ORDER BY Sales_quantity
 LIMIT 3;
 
 /* Task 3: Calculate the sales quantity in different hour. Result in [Hourly trend of sales quantity] */
+/* To extract all possible working hour */
 WITH cte AS (
   SELECT 
     DISTINCT EXTRACT( HOUR FROM datetime) Hour,
   FROM `Coffee_shop.Sales data`
   ORDER BY Hour
 )
-
+/* Combine all possible working hour with the corresponding sales quantity */
 SELECT 
   HOUR,
   IFNULL(Sales_quantity,0) Sales_quantity
@@ -41,6 +42,7 @@ LEFT JOIN (
 ORDER BY HOUR;
 
 /* Task 4: Calculate the sales quantity of various products in different hour. Result in [Hourly trend of sales quantity - Individual product] */
+/* Extract all possible combination between working hour and coffee type */
 WITH cte AS (
   SELECT 
     DISTINCT s2.coffee_name,
@@ -49,7 +51,7 @@ WITH cte AS (
   CROSS JOIN (SELECT DISTINCT coffee_name FROM  `Coffee_shop.Sales data`) s2
   ORDER BY Hour
 )
-
+/* Combine cte with it's corresponding sales quantity */
 SELECT 
   coffee_name, 
   Hour, 
@@ -66,13 +68,14 @@ LEFT JOIN (
 ORDER BY Hour;
 
 /* Task 5: Calculate the sales revenue in different hour. Result in [Hourly trend of sales revenue] */
+/* Extract all possible working hour */
 WITH cte AS (
   SELECT 
     DISTINCT EXTRACT( HOUR FROM datetime) Hour,
   FROM `Coffee_shop.Sales data`
   ORDER BY Hour
 )
-
+/* Combine all possible working hour with the corresponding sales revenue */
 SELECT 
   HOUR,
   ROUND(IFNULL(Sales_Revenue,0),2) Sales_revenue
@@ -87,6 +90,7 @@ LEFT JOIN (
 ORDER BY HOUR;
 
 /* Task 6: Calculate the sales revenue of various products in different hour. Result in [Hourly trend of sales revenue - Individual product] */
+/* Extract all possible combination between working hour and coffee type */
 WITH cte AS (
   SELECT 
     DISTINCT s2.coffee_name,
@@ -95,7 +99,7 @@ WITH cte AS (
   CROSS JOIN (SELECT DISTINCT coffee_name FROM  `Coffee_shop.Sales data`) s2
   ORDER BY Hour
 )
-
+/* Combine cte with it's corresponding sales revenue */
 SELECT 
   coffee_name, 
   Hour, 
@@ -145,6 +149,7 @@ SELECT
 FROM `coffee-shop-464201.Coffee_shop.Sales data` ;
 
 /* Task 12: Calculate the sales quantity in different day of week. Result in [Weekly trend of sales quantity] */
+/* Extract date in the format of weekday name and assign each weekday a number for ranking */
 WITH cte AS (
   SELECT 
     DISTINCT FORMAT_DATE('%a', date) Week_day,
@@ -180,6 +185,7 @@ LEFT JOIN (
 ORDER BY r;
 
 /* Task 13: Calculate the sales quantity of different products in different day of week. Result in [Weekly trend of sales quantity - Individual product] */
+/* Extract date in the format of weekday name and assign each weekday a number for ranking */
 WITH cte AS (
   SELECT 
     DISTINCT s2.coffee_name,
@@ -220,6 +226,7 @@ LEFT JOIN (
 ORDER BY r;
 
 /* Task 14: Calculate the sales revenue in different day of week. Result in [Weekly trend of sales quantity - Individual product] */
+/* Extract date in the format of weekday name and assign each weekday a number for ranking */
 WITH cte AS (
   SELECT 
     DISTINCT FORMAT_DATE('%a', date) Week_day,
@@ -256,6 +263,7 @@ LEFT JOIN (
 ORDER BY r;
 
 /* Task 15: Calculate the sales revenue of different products in different day of week. Result in [Weekly trend of sales revenue - Individual product] */
+/* Extract date in the format of weekday name and assign each weekday a number for ranking */
 WITH cte AS (
   SELECT 
     DISTINCT s2.coffee_name,
